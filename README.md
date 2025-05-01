@@ -1,4 +1,4 @@
-# 📈 Car Sales Forecasting using SARIMAX
+# Car Sales Forecasting using SARIMAX
 
 This time series forecasting project uses the **SARIMAX model** to predict **monthly car sales**. SARIMAX is an extension of the ARIMA model that supports **seasonal effects** and **exogenous variables**, making it suitable for modeling real-world time-dependent data with trends and seasonal patterns.
 
@@ -16,7 +16,7 @@ This project aims to understand the pattern in car sales over time and forecast 
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **File**: `monthly-car-sales.csv`
 - **Content**: Monthly car sales data (usually 1 record per month).
@@ -25,7 +25,7 @@ This project aims to understand the pattern in car sales over time and forecast 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── forcasting.ipynb       # Jupyter notebook with full analysis and model
@@ -35,7 +35,7 @@ This project aims to understand the pattern in car sales over time and forecast 
 
 ---
 
-## 🔍 Key Steps in the Notebook
+## Steps
 
 1. **Importing Libraries**
 2. **Loading the Dataset**
@@ -56,7 +56,7 @@ This project aims to understand the pattern in car sales over time and forecast 
 
 ---
 
-## 💡 Why SARIMAX?
+## Why SARIMAX?
 
 - Handles both trend and seasonality.
 - Can incorporate external regressors 
@@ -64,7 +64,7 @@ This project aims to understand the pattern in car sales over time and forecast 
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 
 - **Python**
 - **Pandas**: Data manipulation and analysis
