@@ -10,7 +10,6 @@ This project aims to understand the pattern in car sales over time and forecast 
 
 - Loading and cleaning the dataset.
 - Exploratory Data Analysis (EDA) with visualizations.
-- Time series decomposition to analyze trend, seasonality, and noise.
 - Building and tuning a SARIMAX model.
 - Forecasting and comparing predictions with actual values.
 
@@ -41,7 +40,6 @@ This project aims to understand the pattern in car sales over time and forecast 
 2. **Loading the Dataset**
 3. **Exploratory Data Analysis**
    - Line plots for sales trends
-   - Seasonal decomposition
 4. **Stationarity Check**
    - Augmented Dickey-Fuller test
    - Differencing
